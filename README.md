@@ -10,7 +10,7 @@ Jack Blocks
 - [LegoBoostProtocol](https://github.com/TianJunjie/LegoBoostProtocol)
 - Lego Boost + RPi4 projects
    - printer
-   - color pikcer
+   - color picker
    - stabilizer
 - ROS adapter for Lego Boost
 - Camera APP
