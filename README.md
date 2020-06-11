@@ -1,10 +1,17 @@
 # JackBlocks
 Jack Blocks 
 
-To do
-- RPI 4 env config
+## RPI4 env
+
+[Setup](https://github.com/TianJunjie/JackBlocks/blob/master/RPI4Setup.md)
+
+## To do
+
 - [LegoBoostProtocol](https://github.com/TianJunjie/LegoBoostProtocol)
 - Lego Boost + RPi4 projects
+   - printer
+   - color pikcer
+   - stabilizer
 - ROS adapter for Lego Boost
 - Camera APP
 - Lidar APP
