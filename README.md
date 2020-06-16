@@ -5,9 +5,12 @@ Jack Blocks
 
 [Setup](https://github.com/TianJunjie/JackBlocks/blob/master/RPI4Setup.md)
 
+## Lego bluetooth protocol analysis
+
+[LegoBoostProtocol](https://github.com/TianJunjie/LegoBoostProtocol)
+
 ## To do
 
-- [LegoBoostProtocol](https://github.com/TianJunjie/LegoBoostProtocol)
 - Lego Boost + RPi4 projects
    - printer
    - color picker
